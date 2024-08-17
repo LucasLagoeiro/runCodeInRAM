@@ -1,0 +1,6 @@
+../Core/Src/main.c:59:19:BlinkOnRAM	2
+../Core/Src/main.c:72:5:main	1
+../Core/Src/main.c:118:6:SystemClock_Config	3
+../Core/Src/main.c:159:13:MX_USART2_UART_Init	5
+../Core/Src/main.c:207:13:MX_GPIO_Init	1
+../Core/Src/main.c:240:6:Error_Handler	1
