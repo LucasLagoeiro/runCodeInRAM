@@ -3,9 +3,9 @@
     <Tool>
         <Name>linker</Name>
         <Parent>
-            <Path>C:\Users\lagoeirl\Downloads\TestIAR\EWARM\TestIAR\Exe\TestIAR.out</Path>
+            <Path>C:\Users\lagoeirl\OneDrive - STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM\TestIAR\Exe\TestIAR.out</Path>
             <Output>
-                <Path>C:\Users\lagoeirl\Downloads\TestIAR\EWARM\TestIAR\List\TestIAR.map</Path>
+                <Path>C:\Users\lagoeirl\OneDrive - STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM\TestIAR\List\TestIAR.map</Path>
             </Output>
         </Parent>
     </Tool>

@@ -8,6 +8,9 @@ define symbol __ICFEDIT_region_ROM_start__ = 0x08000000;
 define symbol __ICFEDIT_region_ROM_end__   = 0x0801FFFF;
 define symbol __ICFEDIT_region_RAM_start__ = 0x20000000;
 define symbol __ICFEDIT_region_RAM_end__   = 0x20008FFF;
+define symbol __new_RAM_start__ = 0x20001000;
+define symbol __new_RAM_end__ = 0x2000a000;
+
 /*-Sizes-*/
 define symbol __ICFEDIT_size_cstack__ = 0x400;
 define symbol __ICFEDIT_size_heap__   = 0x200;
@@ -16,18 +19,26 @@ define symbol __ICFEDIT_size_heap__   = 0x200;
 define memory mem with size = 4G;
 define region ROM_region   = mem:[from __ICFEDIT_region_ROM_start__   to __ICFEDIT_region_ROM_end__];
 define region RAM_region   = mem:[from __ICFEDIT_region_RAM_start__   to __ICFEDIT_region_RAM_end__];
+define region MYRAM_region = mem:[from __new_RAM_start__   to __new_RAM_end__];  // Nova seção de RAM
 
 define block CSTACK    with alignment = 8, size = __ICFEDIT_size_cstack__   { };
 define block HEAP      with alignment = 8, size = __ICFEDIT_size_heap__     { };
+define block RAM_block with alignment = 8, size = 0x2000 { section .my_ram_section };
+
 
 initialize by copy { readwrite };
 do not initialize  { section .noinit };
+do not initialize { section MY_RAM_SECTION };
+
 
 place at address mem:__ICFEDIT_intvec_start__ { readonly section .intvec };
 
 place in ROM_region   { readonly };
 place in RAM_region   { readwrite,
                         block CSTACK, block HEAP };
+
+
+place in MYRAM_region { block RAM_block };
 
 export symbol __ICFEDIT_region_RAM_start__;
 export symbol __ICFEDIT_region_RAM_end__;

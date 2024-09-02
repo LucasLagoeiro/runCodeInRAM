@@ -1,25 +1,25 @@
-"C:\Users\lagoeirl\Downloads\TestIAR\Drivers\STM32G0xx_HAL_Driver\Src\stm32g0xx_hal_dma.c"
+"C:\Users\lagoeirl\OneDrive - STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\Drivers\STM32G0xx_HAL_Driver\Src\stm32g0xx_hal_dma.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-C:\Users\lagoeirl\Downloads\TestIAR\EWARM\TestIAR\BrowseInfo\STM32G0xx_HAL_Driver_14800413719917403617.dir\stm32g0xx_hal_dma.pbi.dep
+C:\Users\lagoeirl\OneDrive - STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM\TestIAR\BrowseInfo\STM32G0xx_HAL_Driver_14800413719917403617.dir\stm32g0xx_hal_dma.pbi.dep
 -o
-C:\Users\lagoeirl\Downloads\TestIAR\EWARM\TestIAR\BrowseInfo\STM32G0xx_HAL_Driver_14800413719917403617.dir\stm32g0xx_hal_dma.pbi
+C:\Users\lagoeirl\OneDrive - STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM\TestIAR\BrowseInfo\STM32G0xx_HAL_Driver_14800413719917403617.dir\stm32g0xx_hal_dma.pbi
 -I
-C:\Users\lagoeirl\Downloads\TestIAR\Drivers\STM32G0xx_HAL_Driver\Src
+C:\Users\lagoeirl\OneDrive - STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\Drivers\STM32G0xx_HAL_Driver\Src
 -I
-C:\Users\lagoeirl\Downloads\TestIAR\EWARM/../Core/Inc
+C:\Users\lagoeirl\OneDrive - STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM/../Core/Inc\
 -I
-C:\Users\lagoeirl\Downloads\TestIAR\EWARM/../Drivers/STM32G0xx_HAL_Driver/Inc
+C:\Users\lagoeirl\OneDrive - STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM/../Drivers/STM32G0xx_HAL_Driver/Inc\
 -I
-C:\Users\lagoeirl\Downloads\TestIAR\EWARM/../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy
+C:\Users\lagoeirl\OneDrive - STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM/../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\
 -I
-C:\Users\lagoeirl\Downloads\TestIAR\EWARM/../Drivers/CMSIS/Device/ST/STM32G0xx/Include
+C:\Users\lagoeirl\OneDrive - STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM/../Drivers/CMSIS/Device/ST/STM32G0xx/Include\
 -I
-C:\Users\lagoeirl\Downloads\TestIAR\EWARM/../Drivers/CMSIS/Include
+C:\Users\lagoeirl\OneDrive - STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM/../Drivers/CMSIS/Include\
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.2\arm\inc\c\aarch32
 -I
@@ -27,15 +27,15 @@ C:\Program Files\IAR Systems\Embedded Workbench 9.2\arm\inc
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.2\arm\inc\c
 -I
-C:\Users\lagoeirl\Downloads\TestIAR\Core\Inc
+C:\Users\lagoeirl\OneDrive - STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\Core\Inc
 -I
-C:\Users\lagoeirl\Downloads\TestIAR\Drivers\STM32G0xx_HAL_Driver\Inc
+C:\Users\lagoeirl\OneDrive - STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\Drivers\STM32G0xx_HAL_Driver\Inc
 -I
-C:\Users\lagoeirl\Downloads\TestIAR\Drivers\STM32G0xx_HAL_Driver\Inc\Legacy
+C:\Users\lagoeirl\OneDrive - STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\Drivers\STM32G0xx_HAL_Driver\Inc\Legacy
 -I
-C:\Users\lagoeirl\Downloads\TestIAR\Drivers\CMSIS\Device\ST\STM32G0xx\Include
+C:\Users\lagoeirl\OneDrive - STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\Drivers\CMSIS\Device\ST\STM32G0xx\Include
 -I
-C:\Users\lagoeirl\Downloads\TestIAR\Drivers\CMSIS\Include
+C:\Users\lagoeirl\OneDrive - STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\Drivers\CMSIS\Include
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0

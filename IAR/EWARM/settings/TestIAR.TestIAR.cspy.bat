@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"C:\Program Files\IAR Systems\Embedded Workbench 9.2\common\bin\cspybat" -f "C:\Users\lagoeirl\Downloads\TestIAR\EWARM\settings\TestIAR.TestIAR.general.xcl" --backend -f "C:\Users\lagoeirl\Downloads\TestIAR\EWARM\settings\TestIAR.TestIAR.driver.xcl" 
+"C:\Program Files\IAR Systems\Embedded Workbench 9.2\common\bin\cspybat" -f "C:\Users\lagoeirl\OneDrive - STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM\settings\TestIAR.TestIAR.general.xcl" --backend -f "C:\Users\lagoeirl\OneDrive - STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM\settings\TestIAR.TestIAR.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"C:\Program Files\IAR Systems\Embedded Workbench 9.2\common\bin\cspybat" -f "C:\Users\lagoeirl\Downloads\TestIAR\EWARM\settings\TestIAR.TestIAR.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\lagoeirl\Downloads\TestIAR\EWARM\settings\TestIAR.TestIAR.driver.xcl" 
+"C:\Program Files\IAR Systems\Embedded Workbench 9.2\common\bin\cspybat" -f "C:\Users\lagoeirl\OneDrive - STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM\settings\TestIAR.TestIAR.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\lagoeirl\OneDrive - STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM\settings\TestIAR.TestIAR.driver.xcl" 
 
 @echo off 
 :end

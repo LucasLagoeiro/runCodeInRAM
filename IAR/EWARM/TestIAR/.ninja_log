@@ -1,29 +1,88 @@
 # ninja log v5
+1551	2143	7469144868728738	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_pwr_ex.o	e0cba24458b67766
+33	678	7455163929152329	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/CMSIS_6603591812247902717.dir/system_stm32g0xx.o	cd2bf2b67d370079
+1251	1845	7469144866030369	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_exti.o	499dee391b031c9b
 2257	2756	7455163950936820	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_uart_ex.o	367abe2c2a5bf86f
 707	1003	7455163933390104	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/Core_13247989168731456611.dir/stm32g0xx_it.o	c17a232cb08640ce
-33	678	7455163929152329	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/CMSIS_6603591812247902717.dir/system_stm32g0xx.o	cd2bf2b67d370079
+2767	2910	7469144876627370	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_dma.o	79d42b943ac5409b
 1932	3336	7455163956768171	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_uart.o	fb7a0cf4cadbba77
 48	726	7455163929152329	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/Core_13247989168731456611.dir/stm32g0xx_hal_msp.o	af96c5706c32c8fa
-448	670	7455202337632137	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Exe/TestIAR.out	3e6d19a460d73e55
-7	445	7455202335212742	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/Core_13247989168731456611.dir/main.o	9d5bee9259aaaea1
+2280	3963	7469144887229773	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_uart.o	c7a118f40ace1ba4
+269	457	7455203218682753	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Exe/TestIAR.out	3e6d19a460d73e55
+5	267	7455203217267099	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/Core_13247989168731456611.dir/main.o	9d5bee9259aaaea1
+1015	1547	7469144863029372	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_flash.o	7dfa1527c62729c3
 658	1104	7455163934264952	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal.o	80fd90bed9031b52
+966	1909	7469144865709584	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_gpio.o	7ddfe86e93f4fb5f
 71	751	7455163929372390	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_cortex.o	5b424c693e6b0b10
 729	1200	7455163935390951	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_exti.o	1e53b91ac034a52c
 1006	1346	7455163936871096	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_dma_ex.o	52e86c04bcc0447
-1979	2291	7455163946242782	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_tim.o	48db5b7e2db40893
-1818	2077	7455163944187586	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_tim_ex.o	a9a92005d2aed69b
 754	1231	7455163935475665	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_flash.o	5949b954e4f15dfd
+1818	2077	7455163944187586	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_tim_ex.o	a9a92005d2aed69b
+1979	2291	7455163946242782	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_tim.o	48db5b7e2db40893
+16	1157	7469772038152724	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/Core_13247989168731456611.dir/main.o	792e7e811c9a2523
 1108	1930	7455163942531756	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_rcc.o	64f7d60faeee2fab
 1202	1815	7455163941556300	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_dma.o	ff6064d828e94de7
+205	263	7469776897550001	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.hex	f6473c5de71368be
+2146	3106	7469144878055215	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_rcc.o	ffe4f8f62a7c9ec5
 1234	1588	7455163939269711	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_pwr_ex.o	b8e211abcaa062ba
 1350	1651	7455163939863839	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_pwr.o	21f684a8cb00094d
-675	731	7455202338398828	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Exe/TestIAR.hex	5e46ebfa02c4493d
 1590	1975	7455163943151887	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_flash_ex.o	87a6eab570147fda
+460	510	7455203219841329	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Exe/TestIAR.hex	5e46ebfa02c4493d
 1654	2253	7455163945943016	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_gpio.o	fd4762ed013f3167
 2079	2552	7455163948948459	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_rcc_ex.o	990d09f20629bb59
 2293	2396	7455163947119319	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/EWARM_18443280873093131863.dir/startup_stm32g070xx.o	f533ba6bc594aa96
 2399	2484	7455163948325586	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_dma.o	c7720ff973865092
 2486	2581	7455163949269809	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_rcc.o	3d541150f1b8de94
-5	267	7455203217267099	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Obj/Core_13247989168731456611.dir/main.o	9d5bee9259aaaea1
-269	457	7455203218682753	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Exe/TestIAR.out	3e6d19a460d73e55
-460	510	7455203219841329	C:/Users/lagoeirl/Downloads/TestIAR/EWARM/TestIAR/Exe/TestIAR.hex	5e46ebfa02c4493d
+3	557	7469144852596598	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/Core_13247989168731456611.dir/stm32g0xx_hal_msp.o	bccf0f102fe60170
+83	712	7469144854168898	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_cortex.o	aff5c5781adcc7db
+592	1011	7469144857329652	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/Core_13247989168731456611.dir/stm32g0xx_it.o	9d347a43a270f815
+561	963	7469144856848944	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/CMSIS_6603591812247902717.dir/system_stm32g0xx.o	23dbeaf15b8b7cea
+56	1062	7469144857329652	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_dma.o	ea6375e9d05bc1f7
+717	1246	7469144859867678	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal.o	5f2e5b7ac27699bd
+1065	1481	7469144862231392	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_dma_ex.o	88b97e46feb1373b
+1484	1982	7469144867307941	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_flash_ex.o	30596fafaa28930f
+2914	3096	7469144878214565	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_ll_rcc.o	4cb7d5ac77888bef
+1849	2274	7469144870152653	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_tim.o	183cbb52c28be970
+1987	2364	7469144871257930	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_pwr.o	82494cc132ea3a29
+1913	2453	7469144872053227	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_rcc_ex.o	a4656fe67ff70323
+2457	2762	7469144875213299	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_tim_ex.o	cc1e4e27d8b275e1
+2368	2975	7469144877260998	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/STM32G0xx_HAL_Driver_14800413719917403617.dir/stm32g0xx_hal_uart_ex.o	109c961ab8fb5536
+2979	3132	7469144878851715	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/EWARM_18443280873093131863.dir/startup_stm32g070xx.o	fa3019365e33114
+7	201	7469776896348785	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.out	1d1566fcf250dfed
+7	535	7469778722470664	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/Core_13247989168731456611.dir/main.o	792e7e811c9a2523
+537	742	7469778724426185	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.out	1d1566fcf250dfed
+745	813	7469778725930779	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.hex	f6473c5de71368be
+5	401	7469780055929764	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/Core_13247989168731456611.dir/main.o	792e7e811c9a2523
+5	288	7469780184169007	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/Core_13247989168731456611.dir/main.o	792e7e811c9a2523
+291	474	7469780185433006	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.out	1d1566fcf250dfed
+478	528	7469780186695873	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.hex	f6473c5de71368be
+6	439	7469783112134811	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/Core_13247989168731456611.dir/main.o	792e7e811c9a2523
+444	668	7469783114359728	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.out	1d1566fcf250dfed
+672	717	7469783115503716	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.hex	f6473c5de71368be
+6	238	7469784268676082	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/Core_13247989168731456611.dir/main.o	792e7e811c9a2523
+242	413	7469784269945209	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.out	1d1566fcf250dfed
+417	474	7469784271152169	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.hex	f6473c5de71368be
+6	271	7469786058686589	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/Core_13247989168731456611.dir/main.o	792e7e811c9a2523
+274	452	7469786060008674	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.out	1d1566fcf250dfed
+456	514	7469786061218987	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.hex	f6473c5de71368be
+6	461	7469787612427394	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/Core_13247989168731456611.dir/main.o	792e7e811c9a2523
+465	674	7469787614549508	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.out	1d1566fcf250dfed
+677	736	7469787615721355	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.hex	f6473c5de71368be
+9	446	7469796684668794	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/Core_13247989168731456611.dir/main.o	792e7e811c9a2523
+450	672	7469796686517597	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.out	1d1566fcf250dfed
+675	726	7469796687889361	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.hex	f6473c5de71368be
+7	268	7469796807747754	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/Core_13247989168731456611.dir/main.o	792e7e811c9a2523
+272	441	7469796808978334	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.out	1d1566fcf250dfed
+446	485	7469796810049054	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.hex	f6473c5de71368be
+7	377	7469798119927522	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/Core_13247989168731456611.dir/main.o	792e7e811c9a2523
+380	566	7469798121341768	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.out	1d1566fcf250dfed
+570	621	7469798122387134	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.hex	f6473c5de71368be
+9	527	7469800048173516	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/Core_13247989168731456611.dir/main.o	792e7e811c9a2523
+530	722	7469800050059050	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.out	1d1566fcf250dfed
+726	779	7469800051194467	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.hex	f6473c5de71368be
+10	307	7469801432917478	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/Core_13247989168731456611.dir/main.o	792e7e811c9a2523
+310	494	7469801434466010	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.out	1d1566fcf250dfed
+497	538	7469801435392338	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.hex	f6473c5de71368be
+11	753	7469811110680144	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Obj/Core_13247989168731456611.dir/main.o	792e7e811c9a2523
+757	958	7469811113004948	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.out	1d1566fcf250dfed
+963	1021	7469811113783895	C:/Users/lagoeirl/OneDrive - STMicroelectronics/Desktop/githubArticles/codeInRAM/IAR/EWARM/TestIAR/Exe/TestIAR.hex	f6473c5de71368be

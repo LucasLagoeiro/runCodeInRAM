@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.2\common\bin\cspybat" -f "C:\Users\lagoeirl\Downloads\TestIAR\EWARM\settings\TestIAR.TestIAR.general.xcl" --backend -f "C:\Users\lagoeirl\Downloads\TestIAR\EWARM\settings\TestIAR.TestIAR.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.2\common\bin\cspybat" -f "C:\Users\lagoeirl\OneDrive - STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM\settings\TestIAR.TestIAR.general.xcl" --backend -f "C:\Users\lagoeirl\OneDrive - STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM\settings\TestIAR.TestIAR.driver.xcl" 
 }
 else
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.2\common\bin\cspybat" -f "C:\Users\lagoeirl\Downloads\TestIAR\EWARM\settings\TestIAR.TestIAR.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\lagoeirl\Downloads\TestIAR\EWARM\settings\TestIAR.TestIAR.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.2\common\bin\cspybat" -f "C:\Users\lagoeirl\OneDrive - STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM\settings\TestIAR.TestIAR.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\lagoeirl\OneDrive - STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM\settings\TestIAR.TestIAR.driver.xcl" 
 }

@@ -1,5 +1,6 @@
-C:\Users\lagoeirl\OneDrive\ -\ STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM\TestIAR\BrowseInfo\STM32G0xx_HAL_Driver_14800413719917403617.dir\stm32g0xx_hal.pbi: \
-  C:\Users\lagoeirl\OneDrive\ -\ STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\Drivers\STM32G0xx_HAL_Driver\Src\stm32g0xx_hal.c \
+C:\Users\lagoeirl\OneDrive\ -\ STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM\TestIAR\BrowseInfo\Core_13247989168731456611.dir\stm32g0xx_it.pbi: \
+  C:\Users\lagoeirl\OneDrive\ -\ STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\Core\Src\stm32g0xx_it.c \
+  C:\Users\lagoeirl\OneDrive\ -\ STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM\..\Core\Inc\main.h \
   C:\Users\lagoeirl\OneDrive\ -\ STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal.h \
   C:\Users\lagoeirl\OneDrive\ -\ STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM\..\Core\Inc\stm32g0xx_hal_conf.h \
   C:\Users\lagoeirl\OneDrive\ -\ STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_rcc.h \
@@ -37,4 +38,5 @@ C:\Users\lagoeirl\OneDrive\ -\ STMicroelectronics\Desktop\githubArticles\codeInR
   C:\Users\lagoeirl\OneDrive\ -\ STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_pwr.h \
   C:\Users\lagoeirl\OneDrive\ -\ STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_pwr_ex.h \
   C:\Users\lagoeirl\OneDrive\ -\ STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_uart.h \
-  C:\Users\lagoeirl\OneDrive\ -\ STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_uart_ex.h
+  C:\Users\lagoeirl\OneDrive\ -\ STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_uart_ex.h \
+  C:\Users\lagoeirl\OneDrive\ -\ STMicroelectronics\Desktop\githubArticles\codeInRAM\IAR\EWARM\..\Core\Inc\stm32g0xx_it.h

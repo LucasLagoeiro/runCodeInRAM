@@ -44,7 +44,6 @@
 UART_HandleTypeDef huart2;
 
 /* USER CODE BEGIN PV */
-
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
@@ -57,12 +56,15 @@ static void MX_USART2_UART_Init(void);
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
-#pragma location = ".Example1"
-void BlinkOnRAM(uint32_t dlyticks)
+__ramfunc void HAL_GPIO_TogglePin_RAM(GPIO_TypeDef* GPIOx, uint16_t GPIO_Pin) {
+    // Implementa��o da fun��o HAL_GPIO_TogglePin
+    GPIOx->ODR ^= GPIO_Pin;
+}
+
+__ramfunc void BlinkOnRAM()
 {
-	HAL_GPIO_TogglePin(LED_GREEN_GPIO_Port, LED_GREEN_Pin);
-        if(HAL_UART_Transmit(&huart2, "Blink! \n\r", 10, 100)!= HAL_OK) Error_Handler();
-	HAL_Delay(dlyticks);
+        //printf("Im in RAM\r\n");
+	HAL_GPIO_TogglePin_RAM(LED_GREEN_GPIO_Port, LED_GREEN_Pin);
         
 }
 /* USER CODE END 0 */
@@ -75,7 +77,6 @@ int main(void)
 {
 
   /* USER CODE BEGIN 1 */
-
   /* USER CODE END 1 */
 
   /* MCU Configuration--------------------------------------------------------*/
@@ -105,9 +106,11 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-    BlinkOnRAM(1000);
+    BlinkOnRAM();
+    HAL_Delay(1000);
+    
     /* USER CODE END WHILE */
-
+    
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
